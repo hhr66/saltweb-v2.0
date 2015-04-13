@@ -8,6 +8,11 @@ Django 1.6.2<br>
 Salt-master 2014.1.0-1<br>
 Python 2.6.6<br>
 
+###saltweb简介
+
+saltweb基于python语言开发，采用django框架对开源软件saltstack做二次开发的web UI，专门为系统运维人员开发的自动化运维管理平台。<br>
+主要功能包括: 主机资产管理、主机分组管理、机柜图展示、主机状态监控、批量执行命令、文件管理、KVM虚拟化管理、共享文库、书签管理、任务工单系统、域名解析查询、上线发布报告、用户消息中心、操作记录审计等<br>
+
 ###saltweb管理界面
 ![主页](https://github.com/hhr66/saltweb-v2.0/blob/master/%E9%A6%96%E9%A1%B5.jpg)
 ![资产信息](https://github.com/hhr66/saltweb-v2.0/blob/master/%E8%B5%84%E4%BA%A7%E4%BF%A1%E6%81%AF.jpg)
