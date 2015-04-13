@@ -21,6 +21,7 @@ Python 2.6.6<br>
 ![书签管理](https://github.com/hhr66/saltweb-v2.0/blob/master/%E4%B9%A6%E7%AD%BE%E7%AE%A1%E7%90%86.jpg)
 ![任务中心](https://github.com/hhr66/saltweb-v2.0/blob/master/%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%BF%83.jpg)
 ![用户操作日志](https://github.com/hhr66/saltweb-v2.0/blob/master/%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97.jpg)
+![消息中心](https://github.com/hhr66/saltweb-v2.0/blob/master/%E6%B6%88%E6%81%AF%E4%B8%AD%E5%BF%83.jpg)
 
 ###saltweb部署
 请参照INSTALL部署
